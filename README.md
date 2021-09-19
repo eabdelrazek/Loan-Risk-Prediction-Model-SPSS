@@ -11,12 +11,12 @@ Public authorities are required by Section 2800 of Public Authorities Law to sub
 
 ## Using IBM Watson Studio, SPSS Machine Learning Modeler:
 ### Steps: 
-1- Check the data quality
-2- Cleaning and Normalizing Data
-3- Fixing data (We have high Standard Deviation Values)
-4- Divide data into two sections: Training and Test Partitions
+1. Check the data quality
+2. Cleaning and Normalizing Data
+3. Fixing data (We have high Standard Deviation Values)
+4. Divide data into two sections: Training and Test Partitions.
 This done by: Auto Prep
-5- Partition the data
-6- Creaating more than one model, and compare the accuracy of each one.
-7- Analyse the more accurate model, save it as PMML, and deploy it.
-8- Test the model by entering data and predict the target factor.
+5. Partition the data
+6. Creaating more than one model, and compare the accuracy of each one.
+7. Analyse the more accurate model, save it as PMML, and deploy it.
+8. Test the model by entering data and predict the target factor.
